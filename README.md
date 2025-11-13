@@ -22,9 +22,7 @@ Simple-Interest-Calculator/
 │
 ├── index.html          # Main HTML file (structure)
 ├── style.css           # Styling and layout
-├── script.js           # JavaScript logic for calculation
-└── screenshots/
-└── screenshot.png  # (optional) App screenshot
+└── script.js           # JavaScript logic for calculation
 
 ```
 
