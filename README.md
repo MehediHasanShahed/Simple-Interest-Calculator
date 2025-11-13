@@ -12,9 +12,8 @@ A lightweight web application that calculates **Simple Interest** based on user 
 ## 📸 Screenshot
 | Calculator Interface |
 |-----------------------|
-| ![Screenshot](screenshots/screenshot.png) |
+| <img width="1878" height="923" alt="Opera Snapshot_2025-11-13_220705_index html" src="https://github.com/user-attachments/assets/54ac6e19-32a3-4ad2-99d8-7de847986d48" />
 
-> _Place your screenshot image inside a `screenshots/` folder and name it `screenshot.png`._
 
 ## 📁 Project Structure
 ```
