@@ -1,0 +1,74 @@
+body {
+    background-color: tan;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  
+    /* Center everything using Flexbox */
+    display: flex;
+    justify-content: center;   /* Center horizontally */
+    align-items: center;       /* Center vertically */
+    flex-direction: column;
+    height: 100vh;             /* Full viewport height */
+    margin: 0;                 /* Remove default margin */
+  }
+  
+  h1 {
+    color: tan;
+    font-family: Verdana;
+  }
+  
+  .maindiv {
+    background-color: whitesmoke;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 25px;
+    text-align: center;
+    color: tan;
+  }
+
+  input {
+      border-color: tan;
+      padding: 5px;
+      border-radius: 20px;
+  }
+
+  .slider {
+      -webkit-appearance: none;
+      width: 60%;
+      height: 4px;
+      border-radius: 5px;
+      background: tan;          /* Track color */  
+      outline: none;
+    }
+
+  #principal {
+      margin-bottom: 10px;
+  }
+
+  #rate {
+      margin-bottom: 10px;
+  }
+  
+
+  #years {
+      margin-bottom: 10px;
+  }
+
+  button {
+      margin: 10px;
+      padding: 12px;
+      border-radius: 15px;
+      background-color: tan;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      border-width: 2px;
+  }
+
+  button:hover {
+      background-color: beige;
+  }
+
+  footer {
+      color: beige;
+  }
